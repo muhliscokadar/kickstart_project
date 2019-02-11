@@ -38,9 +38,9 @@ The Goal: Organize and analyze a database of four thousand past projects in orde
 
 * The dates stored within the `deadline` and `launched_at` columns are using unix timestamps.
 
-  * Created a new column named Date Created Conversion that will use to convert the data contained within launched_at into Excel's Date format
+  * Created a new column named Date Created Conversion that used to convert the data contained within launched_at into Excel's Date format
 
-  * Created a new column named Date Ended Conversion that will use to convert the data contained within deadline into Excel's Date format
+  * Created a new column named Date Ended Conversion that used to convert the data contained within deadline into Excel's Date format
 
   ## Outcomes Based on Launch Date
 
